@@ -52,6 +52,6 @@ Como executar:
 
 Saída:
 
-- O número 9 apareceu 1 vezes na lista.
+- O número 9 apareceu 1 vez na lista.
 - O número 3 apareceu na posição 3
 - 2 valores são número par.
