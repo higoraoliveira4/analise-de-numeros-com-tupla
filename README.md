@@ -1,0 +1,1 @@
+# an-lise-de-n-meros-com-tupla
