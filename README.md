@@ -37,21 +37,21 @@ Praticar conceitos fundamentais da linguagem Python, como:
 
 Como executar:
 
-Certifique-se de que o Python 3 está instalado no computador
-Baixe o arquivo deste repositório
-Execute o arquivo pelo terminal ou por uma IDE de sua preferência
+- Certifique-se de que o Python 3 está instalado no computador
+- Baixe o arquivo deste repositório
+- Execute o arquivo pelo terminal ou por uma IDE de sua preferência
 
 ---
 
 ## Exemplo de uso
 
-Digite um numero: 2
-Digite outro numero: 9
-Digite mais um numero: 3
-Digite o ultimo numero: 4
+- Digite um numero: 2
+- Digite outro numero: 9
+- Digite mais um numero: 3
+- Digite o ultimo numero: 4
 
 Saída:
 
-O número 9 apareceu 1 vezes na lista.
-O número 3 apareceu na posição 3
-2 valores são número par.
+- O número 9 apareceu 1 vezes na lista.
+- O número 3 apareceu na posição 3
+- 2 valores são número par.
